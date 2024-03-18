@@ -1,0 +1,9 @@
+node_modules
+build
+package
+.svelte-kit
+.vercel
+
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
